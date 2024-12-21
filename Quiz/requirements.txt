@@ -1,0 +1,10 @@
+flask
+flask_cors
+pdfplumber
+python-docx
+python-pptx
+nltk
+requests
+pymongo
+fuzzywuzzy
+gunicorn
